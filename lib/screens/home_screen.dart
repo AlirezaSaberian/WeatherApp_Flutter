@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               const Icon(
                                 CupertinoIcons.location_solid,
                                 color: Colors.white70,
-                                size: 25,
+                                size: 20,
                               ),
                               const SizedBox(
                                 width: 3,
